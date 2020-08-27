@@ -1,1 +1,1 @@
-# MultiLabelClassify_Independence_AnalyticsVidhya
+# MultiClassClassify_Independence_AnalyticsVidhya
