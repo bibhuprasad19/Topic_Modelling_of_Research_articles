@@ -21,7 +21,11 @@ Note that a research article can possibly have more than 1 topic. The research a
 
 6- Quantitaive Biology
 
-Download Dataset from ://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/download/train-file
+Download Dataset from :
+
+datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/download/train-file
+
+
 
 **APPROACH**
 
