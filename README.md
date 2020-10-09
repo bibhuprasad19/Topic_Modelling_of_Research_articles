@@ -1,4 +1,4 @@
-**Topic Modelling of Research Articles**
+# Topic Modelling of Research Articles
 
 ![GitHub Logo](https://datahack-prod.s3.ap-south-1.amazonaws.com/__sized__/contest_cover/jantahack_i-day-thumbnail-1200x1200-90.jpg)
 
@@ -29,4 +29,4 @@ datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackath
 
 **APPROACH**
 
-To classify multiple classes I used the Machine learning approach of TF-IDF vectorizer. To train the model a very simple approach was adopted where I used six different Logistic Regression for six topics. The main reason for taking such an approsch is that a single article could belong to more than one topic
+To classify multiple classes I used the Machine learning approach of TF-IDF vectorizer. To train the model a very simple approach was adopted where I used six different Logistic Regression for six topics. The main reason for taking such an approsch is that a single article could belong to more than one topic. I got a F1-score of 79.6.
